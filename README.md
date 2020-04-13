@@ -7,3 +7,5 @@ A common task for this algorithm is to find the median subset of a specified set
 - 3D space - a plane
 
 This implementation presents a search of a median plane for a random (or loaded) set of points in 3D space.
+
+*Note: this project was made as a university task long ago and contains a dirty code (perhaps with some bugs as well). If you're about to use it, be careful.*
