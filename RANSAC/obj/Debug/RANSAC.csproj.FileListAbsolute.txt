@@ -1,0 +1,7 @@
+C:\Users\Dan\source\repos\RANSAC\RANSAC\bin\Debug\RANSAC.exe.config
+C:\Users\Dan\source\repos\RANSAC\RANSAC\bin\Debug\RANSAC.exe
+C:\Users\Dan\source\repos\RANSAC\RANSAC\bin\Debug\RANSAC.pdb
+C:\Users\Dan\source\repos\RANSAC\RANSAC\obj\Debug\RANSAC.csprojAssemblyReference.cache
+C:\Users\Dan\source\repos\RANSAC\RANSAC\obj\Debug\RANSAC.csproj.CoreCompileInputs.cache
+C:\Users\Dan\source\repos\RANSAC\RANSAC\obj\Debug\RANSAC.exe
+C:\Users\Dan\source\repos\RANSAC\RANSAC\obj\Debug\RANSAC.pdb
